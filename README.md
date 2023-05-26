@@ -2,6 +2,8 @@
 
 ![image](PENNs_architecture.png)
 
+![image](PENNs_architecture.svg)
+
 ### What is this repository for?
 
 The demo code for "Physics-enhanced neural networks for half-space seismic wave modeling"
