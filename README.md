@@ -1,7 +1,5 @@
 # PENN-SH2d
 
-![image](PENNs_architecture.png)
-
 ![image](PENNs_architecture.svg)
 
 ### What is this repository for?
